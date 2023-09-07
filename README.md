@@ -7,3 +7,5 @@ Auf einem LCD-Display werden dem Benutzer die Temperatur und ein weiterer Wert a
 Die Wetterstation wird über ein 5V-Netzteil mit Strom versorgt. Es gibt einen An/Aus-Schalter am Gehäuse und einen Standy-By-Modus zum Stromsparen und Display-Ausschalten.  
 
 Der Arduino Nano und viele Anschlüsse für Sensoren und Strom wurden auf eine Lochrasterplatine gelötet und verkabelt.
+
+Der Code wurde in C++ mithilfe der Arduino IDE und den entsprechenden Libraries geschrieben.
