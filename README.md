@@ -9,3 +9,5 @@ Die Wetterstation wird über ein 5V-Netzteil mit Strom versorgt. Es gibt einen A
 Der Arduino Nano und viele Anschlüsse für Sensoren und Strom wurden auf eine Lochrasterplatine gelötet und verkabelt.
 
 Der Code wurde in C++ mithilfe der Arduino IDE und den entsprechenden Libraries geschrieben.
+
+[![Schaltplan](Schaltplan.jpg)](Schaltplan.jpg)
