@@ -11,3 +11,4 @@ Der Arduino Nano und viele Anschlüsse für Sensoren und Strom wurden auf eine L
 Der Code wurde in C++ mithilfe der Arduino IDE und den entsprechenden Libraries geschrieben.
 
 [![Schaltplan](Schaltplan.jpg)](Schaltplan.jpg)
+[![Platine](Platine.jpg)](Platine.jpg)
